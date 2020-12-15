@@ -1,2 +1,2 @@
-# JavaScrit_With_Maximilian
+# JavaScriptt_With_Maximilian
 #Learning By Doing 
